@@ -1,4 +1,4 @@
-# Yagi-Uda Raditation Pattern Plotting
+# Yagi-Uda Radiation Pattern Plotting
 
 
 ## Using Python
@@ -37,7 +37,7 @@ plt.show()
 
 ```
 
-## Terminal Window (This is just Dummy data of Angle & Power not Experiment Accurate)
+## Terminal Window (This is just Dummy data of Angle & Power, not Experiment Accurate)
 ```bash
 Enter the number of angle readings: 12
 Enter angle (in degrees) and power received (in arbitrary units):
