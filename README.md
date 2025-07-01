@@ -68,4 +68,4 @@ Power 12: 1.4
 ```
 
 ## Result
-<img src="./img/Figure_1.png">
+![Image](https://github.com/user-attachments/assets/3cf397d0-fd25-4dbd-a68b-d840541e3064)
